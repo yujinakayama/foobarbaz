@@ -1,3 +1,5 @@
+puts 'foobarbaz'
+
 require "foobarbaz/version"
 
 module Foobarbaz
